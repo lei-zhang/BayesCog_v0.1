@@ -9,8 +9,8 @@ Folder | Task | Model
 03.bernoulli_coin | Coin flip  | Bernoulli Model
 04.regression_height  <td rowspan=2>Observed weight and height  <td rowspan=2>Linear regression model
 05.regression_height_poly 
-06.reinforcement_learning </td><td rowspan=2>2-armed bandit task</td>   </td><td rowspan=2>Simple reinforcement learning (RL) model</td>
-07.optm_rl
+06.reinforcement_learning  | 2-armed bandit task |   Simple reinforcement learning (RL)
+07.optm_rl | ^ | ^
 08.compare_models | Probabilistic reversal learning task |  Simple and fictitious RL models
 09.debugging |  Memory Retention | Exponential decay model
 10.model_based | 2-armed bandit task | Simple RL model
