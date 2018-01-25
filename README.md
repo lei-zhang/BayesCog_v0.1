@@ -7,10 +7,10 @@ Folder | Task | Model
 01.R_basics |NA | NA
 02.binomial_globe | Globe toss | Binomial Model
 03.bernoulli_coin | Coin flip  | Bernoulli Model
-04.regression_height  <td rowspan=2>Observed weight and height  <td rowspan=2>Linear regression model
-05.regression_height_poly 
+04.regression_height | Observed weight and height | Linear regression model
+05.regression_height_poly |  Observed weight and height | Linear regression model
 06.reinforcement_learning  | 2-armed bandit task |   Simple reinforcement learning (RL)
-07.optm_rl | ^ | ^
+07.optm_rl   | 2-armed bandit task |   Simple reinforcement learning (RL)
 08.compare_models | Probabilistic reversal learning task |  Simple and fictitious RL models
 09.debugging |  Memory Retention | Exponential decay model
 10.model_based | 2-armed bandit task | Simple RL model
