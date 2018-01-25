@@ -1,6 +1,6 @@
 This repository contains all materials (slides & codes) from my *BayesCog* workshop. 
 
-# List of Folders and their Content
+## List of Folders and their Content
 
 Folder | Task | Model
 -----  | ---- | ----
@@ -9,7 +9,7 @@ Folder | Task | Model
 03.bernoulli_coin | Coin flip  | Bernoulli Model
 04.regression_height  <td rowspan=2>Observed weight and height  <td rowspan=2>Linear regression model
 05.regression_height_poly 
-06.reinforcement_learning <td rowspan=2>2-armed bandit task   <td rowspan=2>Simple reinforcement learning (RL) model
+06.reinforcement_learning </td><td rowspan=2>2-armed bandit task</td>   </td><td rowspan=2>Simple reinforcement learning (RL) model</td>
 07.optm_rl
 08.compare_models | Probabilistic reversal learning task |  Simple and fictitious RL models
 09.debugging |  Memory Retention | Exponential decay model
@@ -19,7 +19,7 @@ Folder | Task | Model
 
 
 
-# LICENSE
+## LICENSE
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
