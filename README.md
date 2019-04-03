@@ -1,4 +1,4 @@
-This repository contains all materials (slides & codes) from my *BayesCog* workshop. 
+This repository contains all materials (slides & codes) from my *BayesCog* workshop. <\br>
 UKE, Hamburg, 2016
 
 ### List of Folders and their Content
